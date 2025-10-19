@@ -1,1 +1,1 @@
-##Bijdragen
+#CONTRIBUTING
